@@ -14,7 +14,7 @@ function Download(){
         text += '"Gesture" : "' + Gestures[i] + '",\n';
         text += '"Key1" : "' + one + '",\n';
         text += '"Key2" : "' + two + '",\n';
-        text += '"Key3" : "' + thr + '",\n';
+        text += '"Key3" : "' + thr + '"\n';
         text += (i == 7)? '}\n' : '},\n';
     }
     text += "]";
