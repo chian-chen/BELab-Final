@@ -41,10 +41,10 @@ function Download(){
                 <label for="${Gestures[i]}1">Gesture</label>
                 <select name="${Gestures[i]}1" id="${Gestures[i]}1">
                     <option value="">-</option>
-                    <option value="Control">Control</option>
-                    <option value="Shift">Shift</option>
-                    <option value="Option">Option</option>
-                    <option value="Command">Command</option>
+                    <option value="ctrl">ctrl</option>
+                    <option value="shift">shift</option>
+                    <option value="option">option</option>
+                    <option value="command">command</option>
                 </select>
                 </div>`;
 
@@ -52,10 +52,10 @@ function Download(){
                 <label for="${Gestures[i]}2">${Gestures[i]}</label>
                 <select name="${Gestures[i]}2" id="${Gestures[i]}2">
                     <option value="">-</option>
-                    <option value="Control">Control</option>
-                    <option value="Shift">Shift</option>
-                    <option value="Option">Option</option>
-                    <option value="Command">Command</option>
+                    <option value="ctrl">ctrl</option>
+                    <option value="shift">shift</option>
+                    <option value="option">option</option>
+                    <option value="command">command</option>
                 </select>
                 </div>`;
 
