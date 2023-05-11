@@ -15,7 +15,7 @@ function Download(){
         text += '"Key1" : "' + one + '",\n';
         text += '"Key2" : "' + two + '",\n';
         text += '"Key3" : "' + thr + '",\n';
-        text += '},\n'
+        text += (i == 7)? '}\n' : '},\n';
     }
     text += "]";
 
