@@ -1,0 +1,19 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+.Trashes
+._*
+.Spotlight-V100
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.apdisk
+
+# Visual Studio Code auto-generated files
+.vscode/
+.settings/
+*.code-workspace
+*.vsix
+.vs/
+*.sln.code-workspace
